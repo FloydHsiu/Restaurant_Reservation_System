@@ -1,7 +1,7 @@
 #Restaurant_reservation_system
 ***
-use PHP CodeIgniter Web Framework
-此專案由張修齊、鄭皓宇、蔡至朔共同開發
+use PHP CodeIgniter Web Framework <br />
+此專案由張修齊、鄭皓宇、蔡至朔共同開發 <br />
 
 ###Application/config
 ***
